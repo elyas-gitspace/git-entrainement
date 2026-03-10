@@ -1,1 +1,2 @@
 "Bonjour je m'appelle Elyas" 
+"Je me re-familiarise avec Git" 
